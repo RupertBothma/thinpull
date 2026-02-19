@@ -1,0 +1,8 @@
+version: v1
+name: buf.build/flyio/container-image-manager
+lint:
+  use:
+    - DEFAULT
+breaking:
+  use:
+    - FILE
